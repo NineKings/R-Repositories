@@ -1,0 +1,6 @@
+source("http://bioconductor.org/biocLite.R")
+biocLite("Biostrings") #安装Biostrings
+
+
+source("http://bioconductor.org/biocLite.R")
+biocLite("Biostrings")
